@@ -1,0 +1,277 @@
+{
+    "luke skywalker": [
+        "Rebel Alliance",
+        "Jedi Order",
+        "New Republic"
+    ],
+    "c-3po": [
+        "Rebel Alliance",
+        "Resistance"
+    ],
+    "r2-d2": [
+        "Rebel Alliance",
+        "Resistance"
+    ],
+    "darth vader": [
+        "Sith",
+        "Galactic Empire"
+    ],
+    "leia organa": [
+        "Rebel Alliance",
+        "New Republic"
+    ],
+    "owen lars": [
+        "Lars Family"
+    ],
+    "beru whitesun lars": [
+        "Lars Family"
+    ],
+    "r5-d4": [
+        "Rebel Alliance"
+    ],
+    "biggs darklighter": [
+        "Rebel Alliance"
+    ],
+    "obi-wan kenobi": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "anakin skywalker": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "wilhuff tarkin": [
+        "Galactic Empire"
+    ],
+    "chewbacca": [
+        "Rebel Alliance",
+        "Resistance"
+    ],
+    "han solo": [
+        "Rebel Alliance",
+        "Resistance"
+    ],
+    "greedo": [
+        "Bounty Hunters' Guild"
+    ],
+    "jabba desilijic tiure": [
+        "Hutt Clan"
+    ],
+    "wedge antilles": [
+        "Rebel Alliance"
+    ],
+    "jek tono porkins": [
+        "Rebel Alliance"
+    ],
+    "yoda": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "palpatine": [
+        "Sith",
+        "Galactic Empire"
+    ],
+    "boba fett": [
+        "Bounty Hunters' Guild"
+    ],
+    "ig-88": [
+        "Bounty Hunters' Guild"
+    ],
+    "bossk": [
+        "Bounty Hunters' Guild"
+    ],
+    "lando calrissian": [
+        "Rebel Alliance",
+        "New Republic"
+    ],
+    "lobot": [
+        "Rebel Alliance"
+    ],
+    "ackbar": [
+        "Rebel Alliance",
+        "New Republic"
+    ],
+    "mon mothma": [
+        "Rebel Alliance",
+        "New Republic"
+    ],
+    "arvel crynyd": [
+        "Rebel Alliance"
+    ],
+    "wicket systri warrick": [
+        "Rebel Alliance"
+    ],
+    "nien nunb": [
+        "Rebel Alliance",
+        "Resistance"
+    ],
+    "qui-gon jinn": [
+        "Jedi Order"
+    ],
+    "nute gunray": [
+        "Trade Federation"
+    ],
+    "finis valorum": [
+        "Galactic Republic"
+    ],
+    "padmé amidala": [
+        "Galactic Republic"
+    ],
+    "jar jar binks": [
+        "Galactic Republic"
+    ],
+    "roos tarpals": [
+        "Galactic Republic"
+    ],
+    "rugor nass": [
+        "Galactic Republic"
+    ],
+    "ric olié": [
+        "Galactic Republic"
+    ],
+    "watto": [
+        "Independent"
+    ],
+    "sebulba": [
+        "Independent"
+    ],
+    "quarsh panaka": [
+        "Galactic Republic"
+    ],
+    "shmi skywalker": [
+        "Lars Family"
+    ],
+    "darth maul": [
+        "Sith"
+    ],
+    "bib fortuna": [
+        "Hutt Clan"
+    ],
+    "ayla secura": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "ratts tyerel": [
+        "Independent"
+    ],
+    "dud bolt": [
+        "Independent"
+    ],
+    "gasgano": [
+        "Independent"
+    ],
+    "ben quadinaros": [
+        "Independent"
+    ],
+    "mace windu": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "ki-adi-mundi": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "kit fisto": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "eeth koth": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "adi gallia": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "saesee tiin": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "yarael poof": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "plo koon": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "mas amedda": [
+        "Galactic Republic",
+        "Galactic Empire"
+    ],
+    "gregar typho": [
+        "Galactic Republic"
+    ],
+    "cordé": [
+        "Galactic Republic"
+    ],
+    "cliegg lars": [
+        "Lars Family"
+    ],
+    "poggle the lesser": [
+        "Separatists"
+    ],
+    "luminara unduli": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "barriss offee": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "dormé": [
+        "Galactic Republic"
+    ],
+    "dooku": [
+        "Sith",
+        "Separatists"
+    ],
+    "bail prestor organa": [
+        "Rebel Alliance",
+        "Galactic Republic"
+    ],
+    "jango fett": [
+        "Bounty Hunters' Guild"
+    ],
+    "zam wesell": [
+        "Bounty Hunters' Guild"
+    ],
+    "dexter jettster": [
+        "Independent"
+    ],
+    "lama su": [
+        "Kaminoan"
+    ],
+    "taun we": [
+        "Kaminoan"
+    ],
+    "jocasta nu": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "r4-p17": [
+        "Jedi Order"
+    ],
+    "wat tambor": [
+        "Separatists"
+    ],
+    "san hill": [
+        "Separatists"
+    ],
+    "shaak ti": [
+        "Jedi Order",
+        "Galactic Republic"
+    ],
+    "grievous": [
+        "Separatists"
+    ],
+    "tarfful": [
+        "Rebel Alliance"
+    ],
+    "raymus antilles": [
+        "Rebel Alliance"
+    ],
+    "sly moore": [
+        "Galactic Empire"
+    ]
+}

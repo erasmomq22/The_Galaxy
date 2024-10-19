@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Star Wars Encyclopedia</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <div class="container">
+        <h1>Star Wars Encyclopedia</h1>
+        
+        <div>
+            <input type="text" id="searchInput" placeholder="Search for a character...">
+            <button type="button" id="searchButton">Search</button>
+        </div>
+        <div id="errorScreen">
+            <p>Character not found!</p>
+        </div>
+        <div id="charactersList"></div>
+        
+        <div id="character-container" class="character-grid"></div>
+        <div class="navigation-buttons">
+            <button id="previous">Previous</button>
+            <button id="next">Next</button>
+        </div>
+    </div>
+    <script src="app.js"></script>
+</body>
+</html>
