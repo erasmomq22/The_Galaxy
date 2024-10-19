@@ -30,13 +30,13 @@ document.addEventListener('DOMContentLoaded', () => {
 
     const loadFirstCharacter = async () => {
         try {
-            const response = await fetch(`https://swapi.dev/api/people/1/`); // Cargar el primer personaje (ID = 1)
+            const response = await fetch(`https://swapi.dev/api/people/1/`); 
             if (!response.ok) {
                 throw new Error(`HTTP error! status: ${response.status}`);
             }
 
             const character = await response.json();
-            displayCharacter(character);  // Mostrar el primer personaje
+            displayCharacter(character);  
         } catch (error) {
             console.error('Error fetching character:', error);
             alert('Error fetching character: ' + error.message);
